@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Studi Independent/Android Studio/BeritaBindingNavigation/app/src/main/res/drawable/bg_content.xml" value="0.1" />
+        <entry key="..\:/Studi Independent/Android Studio/BeritaBindingNavigation/app/src/main/res/font/poppins_bold.xml" value="0.17222222222222222" />
+        <entry key="..\:/Studi Independent/Android Studio/BeritaBindingNavigation/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/BeritaBindingNavigation/app/src/main/res/layout/fragment_berit_a.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/BeritaBindingNavigation/app/src/main/res/layout/fragment_berita.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/BeritaBindingNavigation/app/src/main/res/layout/fragment_konten_berita.xml" value="0.14" />
+        <entry key="..\:/Studi Independent/Android Studio/BeritaBindingNavigation/app/src/main/res/layout/item_berita.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_berita"
+    app:startDestination="@id/beritaFragment">
+
+    <fragment
+        android:id="@+id/beritaFragment"
+        android:name="com.rifqipadisiliwangi.beritabindingnavigation.BeritaFragment"
+        android:label="fragment_berita"
+        tools:layout="@layout/fragment_berita" >
+        <action
+            android:id="@+id/action_beritaFragment_to_kontenBeritaFragment"
+            app:destination="@id/kontenBeritaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kontenBeritaFragment"
+        android:name="com.rifqipadisiliwangi.beritabindingnavigation.KontenBeritaFragment"
+        android:label="fragment_konten_berita"
+        tools:layout="@layout/fragment_konten_berita" >
+        <argument android:name="isiData" />
+    </fragment>
+</navigation>
